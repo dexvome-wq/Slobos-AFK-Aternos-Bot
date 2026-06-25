@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "eciwho-server.aternos.me",
-    "port": 80,
+    "port": 21821,
     "version": "",
     "try-creative": false
   },
